@@ -65,8 +65,8 @@ function createBot() {
   console.log('🤖 Creating bot...');
   
   const botOptions = {
-    host: config.server.host,
-    port: config.server.port,
+    host: config.GigaChad-uztl.aternos.me,
+    port: config.26536,
     username: config.bot.username,
     version: config.server.version,
     hideErrors: false
